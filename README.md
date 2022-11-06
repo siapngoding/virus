@@ -1,0 +1,2 @@
+# virus
+Virus Termux Generator
